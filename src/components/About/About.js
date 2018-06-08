@@ -7,6 +7,7 @@ export default class About extends Component {
         <div className='subnav'>
         </div>
         <div className='box'>
+        This is the about section
         </div>
       </div>
     )
